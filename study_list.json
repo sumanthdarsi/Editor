@@ -2,45 +2,62 @@
     "employeeList": [
         {
             "name": "Complex Numbers"
+            "ver": "1.5",
         },
         {
             "name": "Sequence and Series",
-            
+            "ver": "1.5",
         },
         {
             "name": "Quadratic Equation",
-           
+           "ver": "1.5",
         },
         {
             "name": "Permutation and Combination",
+            "ver": "1.5",
+            "api": "API level 3"
            
         },
         {
             "name": "Matrices and Determinants",
+            "ver": "1.5",
+            "api": "API level 3"
            
         },
          {
             "name": "Differential Calculus",
+             "ver": "1.5",
+             "api": "API level 3"
            
         },
          {
             "name":"Integral Calculus",
+             "ver": "1.5",
+             "api": "API level 3"
            
         },
          {
             "name": "Differential Equation",
+             "ver": "1.5",
+             "api": "API level 3"
            
         },
         {
             "name": "Probability",
+            "ver": "1.5",
+            "api": "API level 3"
            
         },
           {
             "name": "Trignometry",
+              "ver": "1.5",
+              "api": "API level 3"
            
         },
           {
             "name": "Statistics",
+              "ver": "1.5",
+              "api": "API level 3"
            
         },
     ]
