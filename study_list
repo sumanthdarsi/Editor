@@ -1,0 +1,47 @@
+{
+    "employeeList": [
+        {
+            "name": "Complex Numbers"
+        },
+        {
+            "name": "Sequence and Series",
+            
+        },
+        {
+            "name": "Quadratic Equation",
+           
+        },
+        {
+            "name": "Permutation and Combination",
+           
+        },
+        {
+            "name": "Matrices and Determinants",
+           
+        },
+         {
+            "name": "Differential Calculus",
+           
+        },
+         {
+            "name":"Integral Calculus",
+           
+        },
+         {
+            "name": "Differential Equation",
+           
+        },
+        {
+            "name": "Probability",
+           
+        },
+          {
+            "name": "Trignometry",
+           
+        },
+          {
+            "name": "Statistics",
+           
+        },
+    ]
+}
