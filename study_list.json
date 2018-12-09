@@ -3,14 +3,17 @@
         {
             "name": "Complex Numbers"
             "ver": "1.5",
+              "api": "API level 3"
         },
         {
             "name": "Sequence and Series",
             "ver": "1.5",
+              "api": "API level 3"
         },
         {
             "name": "Quadratic Equation",
            "ver": "1.5",
+              "api": "API level 3"
         },
         {
             "name": "Permutation and Combination",
